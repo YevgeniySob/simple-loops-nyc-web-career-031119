@@ -43,7 +43,7 @@ def until_iterator(number_of_times)
   until == 7
   number_of_times.times do 
     puts phrase
-    i+=1
+    i += 1
   end
 end
 
